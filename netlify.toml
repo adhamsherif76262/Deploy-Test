@@ -14,6 +14,11 @@ to = "https://www.youtube.com/"
 status = 200
 
 [[redirects]]
-from = "/pass-through"
-to = "/index.html"
+from = "/Index-4"
+to = "https://www.youtube.com/"
+status = 200
+
+[[redirects]]
+from = "/Index_5"
+to = "https://www.youtube.com/"
 status = 200
