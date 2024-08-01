@@ -9,8 +9,8 @@ to = "https://www.youtube.com/"
 status = 200
 
 [[redirects]]
-from = "/Index3"
-to = "/https://www.youtube.com/"
+from = "/Index 3 "
+to = "https://www.youtube.com/"
 status = 200
 
 [[redirects]]
