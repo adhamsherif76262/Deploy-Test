@@ -1,5 +1,6 @@
 # Redirects from what the browser requests to what we serve
-/home                https://www.youtube.com/
+/index                https://www.youtube.com/
+/index 2              https://www.google.com/
 /blog/my-post.php    /blog/my-post
 /news                /blog
 /cuties              https://www.petsofnetlify.com
